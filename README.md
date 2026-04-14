@@ -28,3 +28,5 @@ Node Exporter : http://localhost:9100
 Asma Slimani — Junior DevOps Engineer
 LinkedIn : https://www.linkedin.com/in/asma-slimani-4a732a296/
 GitHub   : https://github.com/AsmaSlimanii
+## Dashboard Screenshot
+![Grafana Dashboard](grafana-dashboard.png)
